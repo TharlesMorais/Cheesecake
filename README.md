@@ -4,7 +4,6 @@ Uma receita simples de Cheesecake, porém esse projeto trabalha bastante a respo
 
 
 ## 🛠 Habilidades
-- Javascript 
 - HTML
 - CSS
 
