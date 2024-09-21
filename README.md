@@ -17,3 +17,5 @@ Uma receita simples de Cheesecake, porém esse projeto trabalha bastante a respo
 ## Demonstração
 
 <img src="./image/cheesecake.png" alt="Imagem da aplicação final(Receita de cheesecake)">
+
+![GIF do meu vídeo](./image/Gif-Cheesecake.gif)
